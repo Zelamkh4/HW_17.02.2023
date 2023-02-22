@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/bin/Debug/net6.0/C#HW.Task19
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/bin/Debug/net6.0/C#HW.Task19.deps.json
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/bin/Debug/net6.0/C#HW.Task19.runtimeconfig.json
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/bin/Debug/net6.0/C#HW.Task19.dll
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/bin/Debug/net6.0/C#HW.Task19.pdb
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/C#HW.Task19.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/C#HW.Task19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/C#HW.Task19.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/C#HW.Task19.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/C#HW.Task19.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/C#HW.Task19.dll
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/refint/C#HW.Task19.dll
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/C#HW.Task19.pdb
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/C#HW.Task19.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork3/C#HW.Task19/obj/Debug/net6.0/ref/C#HW.Task19.dll
